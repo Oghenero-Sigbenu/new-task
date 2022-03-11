@@ -120,6 +120,12 @@ margin-top: 1.2rem;
     right: 0px;
 
 }
+.search-section__help{
+    display: flex;
+}
+.search-section__help {
+    display: flex;
+}
 .search-section__card{
     display: flex;
     justify-content: space-between;

@@ -33,7 +33,7 @@ function SearchCard({icon, rate, dataTitle,features, dataDetail, secDataTitle, s
             <div className="search-section__value">
               <p>{dataDetail}</p>
               </div>
-            <div>Help: <p>{features}</p></div>
+            <div className="search-section__help"><p>Help: </p> <p>{features}</p></div>
             {/* <div>Help: <p>Searches, Presentation</p></div> */}
         </div>
     </div>
