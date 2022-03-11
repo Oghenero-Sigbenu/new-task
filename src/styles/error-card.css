@@ -1,0 +1,15 @@
+
+.section__tab__content__item_light{
+    background: green;
+    width: 10px;
+    height: 10px;
+    display: inline;
+}
+.section__tab__content__item_text{
+    font-size: 1rem;
+    font-weight: 600;
+    color: #4A4A4A;
+
+}
+.section__tab__content__item_status{
+}
